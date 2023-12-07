@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cutscene_Initial.unity
+    guid: bd672fc3427ebee4b9b1c8fd9cd6d93d
+  - enabled: 1
+    path: Assets/Scenes/Scene_MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Scene_Florest.unity
+    guid: 15b360508329cb14cbab5189cd710e44
+  - enabled: 1
+    path: Assets/Scenes/Scene_City.unity
+    guid: 81f2c7a28ccb82c4bad0b769f2fced0d
+  - enabled: 1
+    path: Assets/Scenes/Scene_Laboratory.unity
+    guid: 62328a0020cd0354b87c7f3529baf954
+  - enabled: 1
+    path: Assets/Scenes/Cutscene_Desert.unity
+    guid: ee4af99f735e80e4e9465d8a0922eaf0
+  - enabled: 1
+    path: Assets/Scenes/Scene_Desert.unity
+    guid: a45d90eff3f51a345bc0ca69ea777fea
+  m_configObjects: {}
